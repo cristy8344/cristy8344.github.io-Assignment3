@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+
+<record>	
+	<heading> The VIBES </heading>
+	
+	<cover>
+	<artist> Hillsong United </artist>
+	<musicgenre> Genre: Christian Gospel </musicgenre>
+	<songnames> SONGS: </songnames>
+		<firstsong> Here Now </firstsong>
+			<year> Released on: 2016 </year>
+		<secondsong> Say The Word </secondsong>
+			<year> Released on: 2016 </year>
+		<thirdsong> Captain </thirdsong>
+			<year> Released on: 2016 </year>
+		<fourthsong> I Surrender </fourthsong>
+			<year> Released on: 2016 </year></cover>
+	<cover>
+	<artist> Sam Smith </artist>
+	<musicgenre> Genre: Pop</musicgenre>
+	<songnames> SONGS: </songnames>
+		<firstsong> Like I Can </firstsong>
+			<year> Released on: 2014 </year>
+		<secondsong> Good Thing </secondsong>
+			<year> Released on: 2014 </year>
+		<thirdsong> I'm Not The Only One </thirdsong>
+			<year> Released on: 2014 </year>
+	    <fourthsong> Stay with Me </fourthsong>
+			<year> Released on: 2014 </year></cover>
+	<cover>
+	<artist> The Weeknd </artist>
+	<musicgenre> Genre: Soul</musicgenre>
+	<songnames> SONGS: </songnames>
+		<firstsong> I Feel It Coming </firstsong>
+			<year> Released on: 2016 </year>
+		<secondsong> All I Know </secondsong>
+			<year> Released on: 2016 </year>
+		<thirdsong> Starboy </thirdsong>
+			<year> Released on: 2016 </year>
+		<fourthsong> Party Monster </fourthsong>
+			<year> Released on: 2016 </year></cover>
+</record>
+
+
